@@ -1,12 +1,12 @@
+![Extension icon](/images/icon_128.png?raw=true "Extension icon") 
+
 Instagram Images Download Extension
 ===================
-
-Extension for **Google Chrome**.
+![Google Chrome](/images/_icon_19.png?raw=true "Google Chrome")  Extension for Google Chrome
 
 This extension helps you to download all the images from an Instagram's user profile page in one click. A useful tool to backup your photos in a very easy process. Just enter a profile page, scroll to bottom until every image is displayed. Then you can collect & download them. 
 
 ![Extension screenshot](/screenshots/screenshot1.png?raw=true "Extension screenshot")
-
 ----------
 
 <h3>Use it for...</h3>
