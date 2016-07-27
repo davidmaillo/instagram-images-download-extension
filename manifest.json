@@ -1,0 +1,43 @@
+{
+    //manifest spec: http://developer.chrome.com/extensions/manifest.html
+    //required
+    "name": "Instagram Images Download Extension",
+    "version": "1.0",
+    "manifest_version": 2,
+
+    //recommended
+    "description": "This extension helps you to download all the images from an Instagram's user profile page in a click. A very useful tool to backup your photos in a very easy process. Just enter in a profile, scroll to bottom until every image is displayed, and then you can click on collect & download.",
+    "icons": {
+        "19": "images/icon_19.png",
+        "38": "images/icon_38.png",
+        "128": "images/icon_128.png"
+    },
+
+    //required
+    "browser_action": {
+        "default_title": "Instagram Images Download Extension",
+        "default_icon": {
+            "19": "images/icon_19.png",
+            "38": "images/icon_38.png"
+        },
+        "default_popup": "html/main.html"
+    },
+
+    "permissions": [
+      "storage",
+      "downloads"
+    ],
+
+    "content_scripts": [ {
+      "js": [ "js/jquery-1.9.1.js", "js/instagram.js" ],
+      "matches": [ "https://www.instagram.com/*"]
+    }],
+
+    "background": {
+        "scripts": ["js/background.js"]
+    }
+
+    //additional
+    // "options_page": "html/options.html"
+    //"homepage_url": "http://yourdomainhere.com/"
+}
