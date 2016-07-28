@@ -1,6 +1,6 @@
 {
     "name": "Instagram Images Download Extension",
-    "version": "1.0",
+    "version": "1.0.1",
     "manifest_version": 2,
 
     "description": "This extension helps you to download all the images from an Instagram's user profile page in a click.",
