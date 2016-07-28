@@ -16,6 +16,11 @@ This extension helps you to download all the images from an Instagram's user pro
 * Get a collection from a hashtag you like (i.e. #sunset or #landscape).
 
 <h3>Installation</h3>
+[![Chrome web store](/images/chromewebstore.png?raw=true "Chrome web store")](https://chrome.google.com/webstore/detail/instagram-images-download/pblgjchnlklkdkhcafceklibimpdfgbe)
+
+A) [Get the extension from the Chrome Web Store](https://chrome.google.com/webstore/detail/instagram-images-download/pblgjchnlklkdkhcafceklibimpdfgbe)
+
+B) Or if you're using the git project...
 
     - Open Google Chrome > Go to "Extensions"
     - Enable developer mode
