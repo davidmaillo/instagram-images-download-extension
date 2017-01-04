@@ -1,12 +1,12 @@
-![Extension icon](/images/icon_128.png?raw=true "Extension icon") 
+![Extension icon](https://github.com/davidmaillo/instagram-images-download-extension/raw/master/images/icon_128.png?raw=true "Extension icon") 
 
 Instagram Images Download Extension
 ===================
-![Google Chrome](/images/_icon_19.png?raw=true "Google Chrome")  Extension for Google Chrome
+![Google Chrome](https://github.com/davidmaillo/instagram-images-download-extension/raw/master/images/_icon_19.png?raw=true "Google Chrome")  Extension for Google Chrome
 
 This extension helps you to download all the images from an Instagram's user profile page in one click. A useful tool to backup your photos in a very easy process. Just enter a profile page, scroll to bottom until every image is displayed. Then you can collect & download them. 
 
-![Extension screenshot](/screenshots/main-screenshot.jpg?raw=true "Extension screenshot")
+![Extension screenshot](https://github.com/davidmaillo/instagram-images-download-extension/raw/master/screenshots/main-screenshot.jpg?raw=true "Extension screenshot")
 ----------
 
 <h3>Use it for...</h3>
@@ -22,13 +22,40 @@ A) [Get the extension from the Chrome Web Store](https://chrome.google.com/webst
 
 B) Or if you're using the git project...
 
-    - Open Google Chrome > Go to "Extensions"
-    - Enable developer mode
-    - Import the project folder
+    1. Open Google Chrome > Go to "Extensions"
+    2. Enable developer mode
+    3. Import the project folder
 
-<h3>Responsability</h3>
-Please, make a good use of the extension. This is purposed for helping people who are saving the photos manually when they need it (many people do). DO NOT use it to disturb, copy others, fake, or any evil purpose... Just be nice. Use your common sense :)
+----------
+
+<h3>Changelog</h3>
+
+## 1.0.2 (Jan 4, 2017)
+* Implemented ZIP.js lib to download images as ZIP file.
+* Downloads real image size from original source.
+* Downloads videos as well.
+* Added donation links - The extension was featured on Chrome Web Store and reached near 1k users. Thanks for installing!
+
+## 1.0.1 (Jul 27, 2016) 
+* First version published in Chrome Store.
+
+----------
+
+<h3>Donation</h3>
+
+You can make me happy by donating to support and/or thank this project ^^
+
+[Donate $1 with Paypal](https://www.paypal.me/davidmaillo)
+
+----------
+
 
 <h3>Missing a feature? Can improve the extension?</h3>
 
 This is an open source project. If you're a developer, feel free to comment and commit changes or new features!! Let's make it better.
+
+
+<h3>Responsability</h3>
+Please, make a good use of the extension. This is purposed for helping people who are saving the photos manually when they need it (many people do). DO NOT use it to disturb, copy others, fake, or any evil purpose... Just be nice. Use your common sense :)
+
+

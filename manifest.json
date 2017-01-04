@@ -1,6 +1,6 @@
 {
     "name": "Instagram Images Download Extension",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "manifest_version": 2,
 
     "description": "This extension helps you to download all the images from an Instagram's user profile page in a click.",
@@ -25,7 +25,7 @@
     ],
 
     "content_scripts": [{
-        "js": ["js/jquery-1.9.1.js", "js/instagram.js"],
+        "js": ["js/jquery-1.9.1.min.js", "js/jszip.min.js", "js/jszip.utils.js", "js/fileSaver.js", "js/instagram.js"],
         "matches": ["https://www.instagram.com/*"]
     }],
 
