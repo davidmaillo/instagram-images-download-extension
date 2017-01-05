@@ -16,7 +16,7 @@ This extension helps you to download all the images from an Instagram's user pro
 * Get a collection from a hashtag you like (i.e. #sunset or #landscape).
 
 <h3>Installation</h3>
-[![Chrome web store](/images/chromewebstore.png?raw=true "Chrome web store")](https://chrome.google.com/webstore/detail/instagram-images-download/pblgjchnlklkdkhcafceklibimpdfgbe)
+[![Chrome web store](https://github.com/davidmaillo/instagram-images-download-extension/raw/master/images/chromewebstore.png?raw=true "Chrome web store")](https://chrome.google.com/webstore/detail/instagram-images-download/pblgjchnlklkdkhcafceklibimpdfgbe)
 
 A) [Get the extension from the Chrome Web Store](https://chrome.google.com/webstore/detail/instagram-images-download/pblgjchnlklkdkhcafceklibimpdfgbe)
 
@@ -31,7 +31,7 @@ B) Or if you're using the git project...
 <h3>Changelog</h3>
 
 ## 1.0.2 (Jan 4, 2017)
-* Implemented ZIP.js lib to download images as ZIP file.
+* Added JSZIP lib to download as ZIP.
 * Downloads real image size from original source.
 * Downloads videos as well.
 * Added donation links - The extension was featured on Chrome Web Store and reached near 1k users. Thanks for installing!

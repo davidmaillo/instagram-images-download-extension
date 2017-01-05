@@ -173,14 +173,11 @@ function zipInstagramMedia(cursor, type = 'all', start, end) {
                 zipInstagramMedia(currentData.page_info.end_cursor, type, start, end);
 
             } else {
-                if(start==1)
-                    start = 0;
+                if (start==1) start = 0;
                 var newOutput = output.slice(start, end);
+                
                 if (newOutput.length > 0) {
                     createZipObject(newOutput, type, start, end);
-                } else
-                {
-                    ResetProgress();
                 }
             }
         }
