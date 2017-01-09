@@ -1,12 +1,12 @@
-![Extension icon](https://github.com/davidmaillo/instagram-images-download-extension/raw/master/images/icon_128.png?raw=true "Extension icon") 
+![Extension icon](https://github.com/davidmaillo/instagram-images-download-extension/raw/master/sources/images/icon_128.png?raw=true "Extension icon") 
 
 Instagram Images Download Extension
 ===================
-![Google Chrome](https://github.com/davidmaillo/instagram-images-download-extension/raw/master/images/_icon_19.png?raw=true "Google Chrome")  Extension for Google Chrome
+![Google Chrome](https://github.com/davidmaillo/instagram-images-download-extension/raw/master/sources/images/_icon_19.png?raw=true "Google Chrome")  Extension for Google Chrome
 
 This extension helps you to download all the images from an Instagram's user profile page in one click. A useful tool to backup your photos in a very easy process. Just enter a profile page, scroll to bottom until every image is displayed. Then you can collect & download them. 
 
-![Extension screenshot](https://github.com/davidmaillo/instagram-images-download-extension/raw/master/screenshots/main-screenshot.jpg?raw=true "Extension screenshot")
+![Extension screenshot](https://github.com/davidmaillo/instagram-images-download-extension/raw/master/sources/screenshots/main-screenshot.jpg?raw=true "Extension screenshot")
 ----------
 
 <h3>Use it for...</h3>
@@ -16,7 +16,7 @@ This extension helps you to download all the images from an Instagram's user pro
 * Get a collection from a hashtag you like (i.e. #sunset or #landscape).
 
 <h3>Installation</h3>
-[![Chrome web store](https://github.com/davidmaillo/instagram-images-download-extension/raw/master/images/chromewebstore.png?raw=true "Chrome web store")](https://chrome.google.com/webstore/detail/instagram-images-download/pblgjchnlklkdkhcafceklibimpdfgbe)
+[![Chrome web store](https://github.com/davidmaillo/instagram-images-download-extension/raw/master/sources/images/chromewebstore.png?raw=true "Chrome web store")](https://chrome.google.com/webstore/detail/instagram-images-download/pblgjchnlklkdkhcafceklibimpdfgbe)
 
 A) [Get the extension from the Chrome Web Store](https://chrome.google.com/webstore/detail/instagram-images-download/pblgjchnlklkdkhcafceklibimpdfgbe)
 
