@@ -45,7 +45,11 @@ B) Or if you're using the git project...
 
 You can make me happy by donating to support and/or thank this project ^^
 
-[Donate $1 with Paypal](https://www.paypal.me/davidmaillo)
+[Donate $1 with Paypal](https://www.paypal.me/davidmaillo/1)
+
+or..
+
+<a style="margin-top: 5px; text-align:center; display:block" href='https://ko-fi.com/A617JT5' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=f' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
 
 ----------
 
