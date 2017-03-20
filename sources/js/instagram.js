@@ -13,7 +13,7 @@ $(document).ready(function() {
 	if (urlParts[3] != "") {
 
 		// Create menu on screen
-		var box_title_text = 'Instagram download extension';
+		var box_title_text = 'Instant Downloader';
 		var box_description_text = 'Scroll down the profile to make all photos visible, then collect the photos and simply download them in one click.';
 		var html = '';
 

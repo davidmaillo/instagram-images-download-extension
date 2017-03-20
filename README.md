@@ -1,6 +1,6 @@
 ![Extension icon](https://github.com/davidmaillo/instagram-images-download-extension/raw/master/sources/images/icon_128.png?raw=true "Extension icon") 
 
-Instagram Images Download Extension
+Instagram Images Download Extension (AKA Instant Downloader)
 ===================
 ![Google Chrome](https://github.com/davidmaillo/instagram-images-download-extension/raw/master/sources/images/_icon_19.png?raw=true "Google Chrome")  Extension for Google Chrome
 

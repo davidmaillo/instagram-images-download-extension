@@ -1,6 +1,6 @@
 {
-    "name": "Instagram Images Download Extension",
-    "version": "1.0.3",
+    "name": "Instant Downloader",
+    "version": "1.0.4",
     "manifest_version": 2,
 
     "description": "This extension helps you to download all the images from an Instagram's user profile page in a click.",
@@ -11,7 +11,7 @@
     },
 
     "browser_action": {
-        "default_title": "Instagram Images Download Extension",
+        "default_title": "Instant Downloader",
         "default_icon": {
             "19": "images/icon_19.png",
             "38": "images/icon_38.png"
