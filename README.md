@@ -5,6 +5,11 @@ Extension for Google Chrome
 This extension helps you to download all the images from an Instagram's user profile page in one click. A useful tool to backup your photos in a very easy process. Just enter a profile page, scroll to bottom until every image is displayed. Then you can collect & download them. 
 
 ----------
+# ALERT: DEPRECATED REPOSITORY!!
+New versions for Instant Downloader will be available in Chrome Store, but they're not pushed to Github anymore.
+
+<hr>
+
 
 <h3>Use it for...</h3>
 
