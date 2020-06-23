@@ -6,7 +6,7 @@ This extension helps you to download all the images from an Instagram's user pro
 
 ----------
 # ALERT: DEPRECATED REPOSITORY!!
-New versions for Instant Downloader will be available in Chrome Store, but they're not pushed to Github anymore.
+New versions for Instant Downloader will be available in Chrome Store, but they're not pushed to Github anymore. This tool is very small and use Git for this project only adds a bunch of pointless extra work :)
 
 <hr>
 
